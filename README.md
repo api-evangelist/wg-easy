@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-wg-easy is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/wg-easy/wg-easy
+wg-easy provides an easy-to-deploy WireGuard VPN solution with a web-based admin UI. It offers simple installation, client management, QR code generation, metrics, multi‑language support, 2FA, OIDC, and extensive documentation hosted at https://wg-easy.github.io/wg-easy/latest. The project is open‑source and aims to simplify secure networking for individuals and teams.
+
+**Areas:** VPN · WireGuard · Web UI · Docker · Open‑source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wg-easy.github.io/wg-easy/latest)
+- [Documentation](https://wg-easy.github.io/wg-easy/latest/)
+- [Getting started](https://wg-easy.github.io/wg-easy/latest/getting-started/)
+- [API reference](https://wg-easy.github.io/wg-easy/latest/advanced/api/)
+- [Support](https://wg-easy.github.io/wg-easy/latest/faq/)
+- [GitHub](https://github.com/wg-easy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/wg-easy/](https://apis.io/providers/wg-easy/).
